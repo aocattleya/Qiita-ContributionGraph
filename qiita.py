@@ -34,8 +34,8 @@ for contribution in contributions:
       num += 1
 
   print('  ', end="")
-  other_pace = str(round(contribution / total * 100))
-  other_pace_len = int(len(other_pace))
+  other_pace = contribution / total * 100
+  other_pace_len = len(str(round(contribution / total * 100)))
   if other_pace_len == 1:
     print(' ', end="")
-  print(other_pace + '%')
+  print('{:.1f}'.format(other_pace) + '%')
