@@ -12,12 +12,12 @@ contributions = [1005, 322, 299, 90, 46]
 total = sum(contributions)
 
 for contribution in contributions:
-  print(contribution, end="")
   num = 0
   space = 4 - len(str(contribution))
   while num < space:
       print(' ', end="")
       num += 1
+  print(contribution, end="")
 
   print('  Contribution  ', end="")
 
