@@ -1,21 +1,24 @@
 <h2 align="center">📊 Qiita Contribution Graph</h2>
 
 <p align="center">
-  <a href="https://gist.github.com/aocattleya/146c0e27c097810d811953f4ecbe3840"><img src="https://user-images.githubusercontent.com/39142850/74376669-e884df80-4e25-11ea-9ce0-39e322b256a0.png" width="60%;" /></a>
+  <a href="https://gist.github.com/aocattleya/146c0e27c097810d811953f4ecbe3840"><img src="https://user-images.githubusercontent.com/39142850/74384496-baf36280-4e34-11ea-9c38-b0c3334319ad.png" width="60%;" /></a>
 </p>
 
 ## 📊 内容
 
 Qiitaの上位5つをグラフで出力するスクリプト  
-Gistに置いてトップページに貼る事を想定している為、表示される5つまでとしている。<br>
+Gistに置いてトップページに貼る事を想定している為、表示される5つまでとしている。
+
+`Lua`言語で書いていますが、`Python`言語でも同じコードも書いています。  
+（環境が整っている人が多いため）<br>
 <br>
 
 ## 💬 使い方
 
-1.  Pythonをインストール
+1.  `Lua` or `Python`をインストール
 1. スクリプトをダウンロード、又はコピー&ペースト
-1. `contributions = [1005, 322, 299, 90, 46]`に、いいね上位5つを記述
-1.  `python qiita.py`を実行
+1. 最初にある`contributions`配列に、いいね上位5つを記述
+1.  `lua qiita.lua` or `python qiita.py`を実行
 1.  出力された物を『GitHub Gist』にコピー&ペースト
 1.  GitHubトップページの`Customize your pins`でGistを選び、トップに配置<br>
 <br>
