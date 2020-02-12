@@ -1,6 +1,9 @@
 --[[--------------------------------
-Qiitaいいね数の上位5位までを書いてね！
-あとは、python qiita.pyを実行だ(*･ᴗ･*)و
+Pythonでも書いてます⸜( ´ ꒳ ` )⸝
+https://github.com/aocattleya/Qiita-ContributionGraph
+
+contributionsに、Qiitaいいね数の上位5位までを書いてね！
+あとは、lua qiita.luaで実行だ(*･ᴗ･*)و
 --]]--------------------------------
 contributions = {1005, 322, 299, 90, 46}
 
