@@ -1,7 +1,7 @@
 <h2 align="center">📊 Qiita Contribution Graph</h2>
 
 <p align="center">
-  <a href="https://gist.github.com/aocattleya/146c0e27c097810d811953f4ecbe3840"><img src="https://user-images.githubusercontent.com/39142850/74371000-62fc3200-4e1b-11ea-87f9-b90042a75516.png" width="60%;" /></a>
+  <a href="https://gist.github.com/aocattleya/146c0e27c097810d811953f4ecbe3840"><img src="https://user-images.githubusercontent.com/39142850/74375687-2123b980-4e24-11ea-9768-3c41bca6b7ed.png" width="60%;" /></a>
 </p>
 
 ## 📊 内容
